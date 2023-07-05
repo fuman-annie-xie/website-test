@@ -1,0 +1,41 @@
+]0;/home/xaz4jq/test-annie-websitebash-4.4$[Kbash-4.4$git remote add origin https://github.com/fuman-annie-xie/website-test.git
+fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git init
+Initialized empty Git repository in /home/xaz4jq/test-annie-website/.git/
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git add ReadMe.[K[K[K[K[K[KEADME.md
+fatal: pathspec 'README.md' did not match any files
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git co[K[Kgit remote add origin https://github.com/fuman-annie-xie/website-test.git
+git: 'git' is not a git command. See 'git --help'.
+
+The most similar command is
+	init
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git remote add origin https://github.com/fuman-annie-xie/website-test.git
+]0;/home/xaz4jq/test-annie-websitebash-4.4$gitb[K branch -M main
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+]0;/home/xaz4jq/test-annie-websitebash-4.4$b[Kgit push -u origin main
+error: src refspec main does not match any.
+error: failed to push some refs to 'https://github.com/fuman-annie-xie/website-test.git'
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git push origin main
+error: src refspec main does not match any.
+error: failed to push some refs to 'https://github.com/fuman-annie-xie/website-test.git'
+]0;/home/xaz4jq/test-annie-websitebash-4.4$ls
+about.Rmd  index.Rmd  _site  _site.yml	test-annie-website.Rproj
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git branch -M main
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git branch -M main[K[Kster
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git branch -M master[2Pin
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git bar[K[Kranch main
+fatal: Not a valid object name: 'master'.
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git checkout main 
+error: pathspec 'main' did not match any file(s) known to git.
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git checkout main [3Pbranch main-M mainster[2Pin[C[C[C[C[C[C[C[C[Cls[Kgit push origin main[3@-u [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pbranch -M[C[C[C[C[Cremote add origin https://github.com/fuman-annie-xie/website-test.git[C[C[C[C[C[C[C[C[C[C[C[C[C[4@git [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbranch -M main[K[5@push -u origin[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgit branch -M mainster[2Pin
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+]0;/home/xaz4jq/test-annie-websitebash-4.4$git add .
